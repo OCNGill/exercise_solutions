@@ -1,1 +1,1 @@
-# exercise_solutions
+# exercism_solutions
